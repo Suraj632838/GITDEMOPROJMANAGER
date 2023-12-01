@@ -7,7 +7,7 @@ public class GITDEMOTEST {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
     System.out.println("GITDEMO CLASS");
-    System.out.println("CANTCONNCE");
+    System.out.println("CANTCONNCE  ");
 		
 	}
 
